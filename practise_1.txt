@@ -1,7 +1,7 @@
 practise secondary branch
 
 This is a resolved issue.
-
+This is an automatically resolved issue.
 Also a practice change for the main branch.
 
 This is a practice file to upload to a github repository.
