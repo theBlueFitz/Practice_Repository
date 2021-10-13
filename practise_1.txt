@@ -1,5 +1,6 @@
 practise secondary branch
 
+This is a resolved issue.
 
 Also a practice change for the main branch.
 
